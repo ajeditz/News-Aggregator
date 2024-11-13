@@ -1,8 +1,10 @@
 from newsapi import NewsApiClient
 from pprint import pprint
 
+import streamlit as st
 # Init
-newsapi = NewsApiClient(api_key='90a8858bb01e41628d782ee486433687')
+key=st.secrets["newsAPIkey"]
+newsapi = NewsApiClient(api_key=key)
 
 
 

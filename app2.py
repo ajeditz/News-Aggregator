@@ -1,6 +1,7 @@
 import streamlit as st
 from final_news_aggregator import newsAggregator
 
+
 # Center align the title
 st.markdown("<h1 style='text-align: center;'>News Aggregator</h1>", unsafe_allow_html=True)
 
@@ -55,4 +56,4 @@ if get_news:
         summary = newsAggregator(query)
         with col2:
             
-            st.write(value=f"{summary}")
+            st.write(f"{summary}")

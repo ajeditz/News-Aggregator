@@ -1,7 +1,10 @@
 import google.generativeai as genai
 from newsAPI import newsRetriever
 
-genai.configure(api_key="AIzaSyCGcfmgV58rZU8CKoq0ZxBRU2ab_TRV49s")
+import streamlit as st
+key=st.secrets["geminiAPIkey"]
+
+genai.configure(api_key=key)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 query="US elections"
