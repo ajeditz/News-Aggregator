@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+-"articles": [
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Kamala Harris yet to concede as Trump wins White House",
+"description": "Exit poll data suggests Kamala Harris may have underperformed with female voters.",
+"url": "https://www.bbc.co.uk/news/articles/clyg856px7eo",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/083d/live/08f5c0c0-9c43-11ef-8538-e1655f5a8342.jpg",
+"publishedAt": "2024-11-06T13:52:13.5158519Z",
+"content": "As expected, Trump stormed to victory in conservative strongholds across the US, while Harris won liberal states from New York to California.\r\nBut her 15-week campaign failed to galvanise enough supp… [+858 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Boardmasters in Newquay in August 2025 to have increased security",
+"description": "Organisers of the Newquay music festival announce increases in security measures for the 2025 event.",
+"url": "https://www.bbc.co.uk/news/articles/c0mz8nmmvd3o",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9e22/live/8c61ab30-9bbd-11ef-b282-0342587a70fd.jpg",
+"publishedAt": "2024-11-06T13:37:16.2338353Z",
+"content": "In its Facebook post, Boardmasters said it would be sharing updates on changes for next year's event over the next few days and weeks.\r\nOrganisers added there would be 50 buses for the park and ride … [+394 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Kate has been amazing, Prince William says",
+"description": "Catherine, who had chemotherapy, is doing really well, Prince William tells the BBC.",
+"url": "https://www.bbc.co.uk/news/articles/cly2zz74xvro",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07df/live/86ceb4d0-9c38-11ef-8538-e1655f5a8342.jpg",
+"publishedAt": "2024-11-06T12:22:17.906102Z",
+"content": "Catherine will be \"cheering me on\", he said, adding: \"I know she'll be really keen to see tonight be a success.\"\r\nPrince William was speaking inside the Super Dome that has been built for this evenin… [+2098 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Anthony Zurcher: A powerful mandate hands Trump free rein",
+"description": "Four years after losing to Joe Biden, Donald Trump's political movement is back and more durable than ever.",
+"url": "https://www.bbc.co.uk/news/articles/cr4lwlpx3wxo",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34fd/live/e147c320-9c2e-11ef-9260-19e6a950e830.jpg",
+"publishedAt": "2024-11-06T12:07:21.5325017Z",
+"content": "His victory cements a fundamental realignment of American politics toward a conservative populism that began in 2016 and was thought to have been discarded with his defeat in 2020.\r\nHis political mov… [+1349 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "How Trump pulled off an incredible comeback",
+"description": "Millions of Americans voted to give him a second chance - our North America editor Sarah Smith looks at why.",
+"url": "https://www.bbc.co.uk/news/articles/cly2818j7rko",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9421/live/e7527bc0-9c1a-11ef-82c3-45a801b7330b.jpg",
+"publishedAt": "2024-11-06T12:07:11.6252835Z",
+"content": "He has heaped praise on authoritarian leaders like Russias Vladimir Putin and North Koreas Kim Jong Un, whom he said were at the top of their game, whether you like it or not.\r\nHe has talked about tr… [+962 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Sunderland GP jailed for poisoning mum's partner over inheritance",
+"description": "Thomas Kwan injected a toxin that caused a flesh-eating disease, pretending it was a Covid jab.",
+"url": "https://www.bbc.co.uk/news/articles/cvg7d5n2mj9o",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33d5/live/e1835fe0-9b5a-11ef-82c3-45a801b7330b.png",
+"publishedAt": "2024-11-06T11:37:16.6090918Z",
+"content": "Mr O'Hara said he immediately felt an \"excruciating pain\" but his visitor told him that was a normal reaction, then left in a hurry.\r\nThe victim quickly became suspicious when Ms Leung said the visit… [+729 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Girls Aloud to release Sarah Harding's version of I'll Stand By You for Children in Need",
+"description": "The group will re-release I'll Stand By You with newly rediscovered vocals by their late bandmate.",
+"url": "https://www.bbc.co.uk/news/articles/cn5wkyq37wvo",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7cef/live/e603b070-9c21-11ef-98e1-236acb2da3b8.jpg",
+"publishedAt": "2024-11-06T11:07:15.8909186Z",
+"content": "I'll Stand By You - Sarah's Version premiered on Wednesday during Zoe Ball's BBC Radio 2 breakfast show. \r\nSpeaking on the programme, Nadine called the song \"really special\" and paid tribute to \"our … [+933 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Firefighters take 1,000 calls during Bonfire Night attacks",
+"description": "Police and firefighters were targeted by fireworks, bricks and bottles in pockets of disorder across Scotland.",
+"url": "https://www.bbc.co.uk/news/articles/c9wr182e5pko",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5105/live/e42899c0-9c1f-11ef-82c3-45a801b7330b.jpg",
+"publishedAt": "2024-11-06T10:22:09.718495Z",
+"content": "Police said there were pockets of disorder in Glasgow, with youths throwing fireworks at members of the public, vehicles and police officers.\r\nFootage taken in Pollokshields, in the south side of the… [+747 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "What a Donald Trump victory means for the UK",
+"description": "How will Keir Starmer, the former north London human rights lawyer, gel with the brash New York billionaire?",
+"url": "https://www.bbc.co.uk/news/articles/cpvzjr8w9mxo",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f627/live/9c550690-9c1c-11ef-9260-19e6a950e830.jpg",
+"publishedAt": "2024-11-06T10:07:15.2658899Z",
+"content": "Quite the outreach and attempt to be seen to understand Donald Trump and his success, from a man who once called him, external a tyrant in a toupee\".\r\nBut privately there is a recognition things aren… [+1862 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Exit polls 2024: How support breaks down by race and gender",
+"description": "Current numbers suggest women are voting more for Kamala Harris but perhaps not by the margins her campaign had hoped.",
+"url": "https://www.bbc.co.uk/news/articles/c0lp48ldgyeo",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7dc4/live/2beaacf0-9bc4-11ef-9319-91016486d6be.jpg",
+"publishedAt": "2024-11-06T05:22:15.8443157Z",
+"content": "The US exit polls are starting to build a picture of how different groups of people have voted across the nation. \r\nThe latest numbers suggest that women are breaking for Kamala Harris but perhaps no… [+569 chars]"
+}
+]
+}
